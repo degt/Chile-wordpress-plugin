@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chile>
+	<region nombre="I Región de Tarapacá">
+		<provincia nombre="Iquique">
+			<comuna nombre="Iquique"/>
+			<comuna nombre="Alto Hospicio"/>
+		</provincia>
+		<provincia nombre="Tamarugal">
+			<comuna nombre="Pozo Almonte"/>
+			<comuna nombre="Camiña"/>
+			<comuna nombre="Colchane"/>
+			<comuna nombre="Huara"/>
+			<comuna nombre="Pica"/>
+		</provincia>
+	</region>
+	<region nombre="II Región de Antofagasta">
+		<provincia nombre="Antofagasta">
+			<comuna nombre="Antofagasta" />
+			<comuna nombre="Mejillones" />
+			<comuna nombre="Sierra Gorda" />
+			<comuna nombre="Taltal" />
+		</provincia>
+		<provincia nombre="El Loa">
+			<comuna nombre="Calama" />
+			<comuna nombre="Ollagüe" />
+			<comuna nombre="San Pedro de Atacama" />
+		</provincia>
+		<provincia nombre="Tocopilla">
+			<comuna nombre="Tocopilla" />
+			<comuna nombre="María Elena" />
+		</provincia>
+	</region>
+	<region nombre="III Región de Atacama">
+		<provincia nombre="Copiapó">
+			<comuna nombre="Copiapó"/>
+			<comuna nombre="Caldera"/>
+			<comuna nombre="Tierra Amarilla"/>
+		</provincia>
+		<provincia nombre="Chañaral">
+			<comuna nombre="Chañaral"/>
+			<comuna nombre="Diego de Almagro"/>
+		</provincia>
+		<provincia nombre="Huasco">
+			<comuna nombre="Vallenar"/>
+			<comuna nombre="Alto del Carmen"/>
+			<comuna nombre="Freirina"/>
+			<comuna nombre="Huasco"/>
+		</provincia>
+	</region>
+	<region nombre="IV Región de Coquimbo">
+		<provincia nombre="Elqui">
+			<comuna nombre="La Serena"/>
+			<comuna nombre="Coquimbo"/>
+			<comuna nombre="Andacollo"/>
+			<comuna nombre="La Higuera"/>
+			<comuna nombre="Paiguano"/>
+			<comuna nombre="Vicuña"/>
+		</provincia>
+		<provincia nombre="Choapa">
+			<comuna nombre="Illapel"/>
+			<comuna nombre="Canela"/>
+			<comuna nombre="Los Vilos"/>
+			<comuna nombre="Salamanca"/>
+		</provincia>
+		<provincia nombre="Limarí">
+			<comuna nombre="Ovalle"/>
+			<comuna nombre="Combarbalá"/>
+			<comuna nombre="Monte Patria"/>
+			<comuna nombre="Punitaqui"/>
+			<comuna nombre="Río Hurtado"/>
+		</provincia>
+	</region>
+	<region nombre="V Región de Valparaíso">
+		<provincia nombre="Valparaíso">
+			<comuna nombre="Valparaíso"/>
+			<comuna nombre="Casablanca"/>
+			<comuna nombre="Concón"/>
+			<comuna nombre="Juan Fernández"/>
+			<comuna nombre="Puchuncaví"/>
+			<comuna nombre="Quilpué"/>
+			<comuna nombre="Quintero"/>
+			<comuna nombre="Villa Alemana"/>
+			<comuna nombre="Viña del Mar"/>
+		</provincia>
+		<provincia nombre="Isla de Pascua">
+			<comuna nombre="Isla de Pascua"/>
+		</provincia>
+		<provincia nombre="Los Andes">
+			<comuna nombre="Los Andes"/>
+			<comuna nombre="Calle Larga"/>
+			<comuna nombre="Rinconada"/>
+			<comuna nombre="San Esteban"/>
+		</provincia>
+		<provincia nombre="Petorca">
+			<comuna nombre="La Ligua"/>
+			<comuna nombre="Cabildo"/>
+			<comuna nombre="Papudo"/>
+			<comuna nombre="Petorca"/>
+			<comuna nombre="Zapallar"/>
+		</provincia>
+		<provincia nombre="Quillota">
+			<comuna nombre="Quillota"/>
+			<comuna nombre="Calera"/>
+			<comuna nombre="Hijuelas"/>
+			<comuna nombre="La Cruz"/>
+			<comuna nombre="Limache"/>
+			<comuna nombre="Nogales"/>
+			<comuna nombre="Olmué"/>
+		</provincia>
+		<provincia nombre="San Antonio">
+			<comuna nombre="San Antonio"/>
+			<comuna nombre="Algarrobo"/>
+			<comuna nombre="Cartagena"/>
+			<comuna nombre="El Quisco"/>
+			<comuna nombre="El Tabo"/>
+			<comuna nombre="Santo Domingo"/>
+		</provincia>
+		<provincia nombre="San Felipe de Aconcagua">
+			<comuna nombre="San Felipe"/>
+			<comuna nombre="Catemu"/>
+			<comuna nombre="Llaillay"/>
+			<comuna nombre="Panquehue"/>
+			<comuna nombre="Putaendo"/>
+			<comuna nombre="Santa María"/>
+		</provincia>
+	</region>
+	<region nombre="VI Región del Libertador General Bernardo O”Higgins">
+		<provincia nombre="Cachapoal">
+			<comuna nombre="Rancagua"/>
+			<comuna nombre="Codegua"/>
+			<comuna nombre="Coinco"/>
+			<comuna nombre="Coltauco"/>
+			<comuna nombre="Doñihue"/>
+			<comuna nombre="Graneros"/>
+			<comuna nombre="Las Cabras"/>
+			<comuna nombre="Machalí"/>
+			<comuna nombre="Malloa"/>
+			<comuna nombre="Mostazal"/>
+			<comuna nombre="Olivar"/>
+			<comuna nombre="Peumo"/>
+			<comuna nombre="Pichidegua"/>
+			<comuna nombre="Quinta de Tilcoco"/>
+			<comuna nombre="Rengo"/>
+			<comuna nombre="Requínoa"/>
+			<comuna nombre="San Vicente"/>
+		</provincia>
+		<provincia nombre="Cardenal Caro">
+			<comuna nombre="Pichilemu"/>
+			<comuna nombre="La Estrella"/>
+			<comuna nombre="Litueche"/>
+			<comuna nombre="Marchihue"/>
+			<comuna nombre="Navidad"/>
+			<comuna nombre="Paredones"/>
+		</provincia>
+		<provincia nombre="Colchagua">
+			<comuna nombre="San Fernando"/>
+			<comuna nombre="Chépica"/>
+			<comuna nombre="Chimbarongo"/>
+			<comuna nombre="Lolol"/>
+			<comuna nombre="Nancagua"/>
+			<comuna nombre="Palmilla"/>
+			<comuna nombre="Peralillo"/>
+			<comuna nombre="Placilla"/>
+			<comuna nombre="Pumanque"/>
+			<comuna nombre="Santa Cruz"/>
+		</provincia>
+	</region>
+	<region nombre="VII Región del Maule">
+		<provincia nombre="Talca">
+			<comuna nombre="Talca"/>
+			<comuna nombre="Constitución"/>
+			<comuna nombre="Curepto"/>
+			<comuna nombre="Empedrado"/>
+			<comuna nombre="Maule"/>
+			<comuna nombre="Pelarco"/>
+			<comuna nombre="Pencahue"/>
+			<comuna nombre="Río Claro"/>
+			<comuna nombre="San Clemente"/>
+			<comuna nombre="San Rafael"/>
+		</provincia>
+		<provincia nombre="Cauquenes">
+			<comuna nombre="Cauquenes"/>
+			<comuna nombre="Chanco"/>
+			<comuna nombre="Pelluhue"/>
+		</provincia>
+		<provincia nombre="Curicó">
+			<comuna nombre="Curicó"/>
+			<comuna nombre="Hualañé"/>
+			<comuna nombre="Licantén"/>
+			<comuna nombre="Molina"/>
+			<comuna nombre="Rauco"/>
+			<comuna nombre="Romeral"/>
+			<comuna nombre="Sagrada Familia"/>
+			<comuna nombre="Teno"/>
+			<comuna nombre="Vichuquén"/>
+		</provincia>
+		<provincia nombre="Linares">
+			<comuna nombre="Linares"/>
+			<comuna nombre="Colbún"/>
+			<comuna nombre="Longaví"/>
+			<comuna nombre="Parral"/>
+			<comuna nombre="Retiro"/>
+			<comuna nombre="San Javier"/>
+			<comuna nombre="Villa Alegre"/>
+			<comuna nombre="Yerbas Buenas"/>
+		</provincia>
+	</region>
+	<region nombre="VIII Región del Bío-Bío">
+		<provincia nombre="Concepción">
+			<comuna nombre="Concepción"/>
+			<comuna nombre="Coronel"/>
+			<comuna nombre="Chiguayante"/>
+			<comuna nombre="Florida"/>
+			<comuna nombre="Hualqui"/>
+			<comuna nombre="Lota"/>
+			<comuna nombre="Penco"/>
+			<comuna nombre="San Pedro de la Paz"/>
+			<comuna nombre="Santa Juana"/>
+			<comuna nombre="Talcahuano"/>
+			<comuna nombre="Tomé"/>
+			<comuna nombre="Hualpén"/>
+		</provincia>
+		<provincia nombre="Arauco">
+			<comuna nombre="Lebu"/>
+			<comuna nombre="Arauco"/>
+			<comuna nombre="Cañete"/>
+			<comuna nombre="Contulmo"/>
+			<comuna nombre="Curanilahue"/>
+			<comuna nombre="Los Álamos"/>
+			<comuna nombre="Tirúa"/>
+		</provincia>
+		<provincia nombre="Bío-Bío">
+			<comuna nombre="Los Ángeles"/>
+			<comuna nombre="Antuco"/>
+			<comuna nombre="Cabrero"/>
+			<comuna nombre="Laja"/>
+			<comuna nombre="Mulchén"/>
+			<comuna nombre="Nacimiento"/>
+			<comuna nombre="Negrete"/>
+			<comuna nombre="Quilaco"/>
+			<comuna nombre="Quilleco"/>
+			<comuna nombre="San Rosendo"/>
+			<comuna nombre="Santa Bárbara"/>
+			<comuna nombre="Tucapel"/>
+			<comuna nombre="Yumbel"/>
+			<comuna nombre="Alto Bío-Bío"/>
+		</provincia>
+		<provincia nombre="Ñuble">
+			<comuna nombre="Chillán"/>
+			<comuna nombre="Bulnes"/>
+			<comuna nombre="Cobquecura"/>
+			<comuna nombre="Coelemu"/>
+			<comuna nombre="Coihueco"/>
+			<comuna nombre="Chillán Viejo"/>
+			<comuna nombre="El Carmen"/>
+			<comuna nombre="Ninhue"/>
+			<comuna nombre="Ñiquén"/>
+			<comuna nombre="Pemuco"/>
+			<comuna nombre="Pinto"/>
+			<comuna nombre="Portezuelo"/>
+			<comuna nombre="Quillón"/>
+			<comuna nombre="Quirihue"/>
+			<comuna nombre="Ránquil"/>
+			<comuna nombre="San Carlos"/>
+			<comuna nombre="San Fabián"/>
+			<comuna nombre="San Ignacio"/>
+			<comuna nombre="San Nicolás"/>
+			<comuna nombre="Treguaco"/>
+			<comuna nombre="Yungay"/>
+		</provincia>
+	</region>
+	<region nombre="IX Región de La Araucanía">
+		<provincia nombre="Cautín">
+			<comuna nombre="Temuco"/>
+			<comuna nombre="Carahue"/>
+			<comuna nombre="Cunco"/>
+			<comuna nombre="Curarrehue"/>
+			<comuna nombre="Freire"/>
+			<comuna nombre="Galvarino"/>
+			<comuna nombre="Gorbea"/>
+			<comuna nombre="Lautaro"/>
+			<comuna nombre="Loncoche"/>
+			<comuna nombre="Melipeuco"/>
+			<comuna nombre="Nueva Imperial"/>
+			<comuna nombre="Padre las Casas"/>
+			<comuna nombre="Perquenco"/>
+			<comuna nombre="Pitrufquén"/>
+			<comuna nombre="Pucón"/>
+			<comuna nombre="Saavedra"/>
+			<comuna nombre="Teodoro Schmidt"/>
+			<comuna nombre="Toltén"/>
+			<comuna nombre="Vilcún"/>
+			<comuna nombre="Villarrica"/>
+			<comuna nombre="Cholchol"/>
+		</provincia>
+		<provincia nombre="Malleco">
+			<comuna nombre="Angol"/>
+			<comuna nombre="Collipulli"/>
+			<comuna nombre="Curacautín"/>
+			<comuna nombre="Ercilla"/>
+			<comuna nombre="Lonquimay"/>
+			<comuna nombre="Los Sauces"/>
+			<comuna nombre="Lumaco"/>
+			<comuna nombre="Purén"/>
+			<comuna nombre="Renaico"/>
+			<comuna nombre="Traiguén"/>
+			<comuna nombre="Victoria"/>
+		</provincia>
+	</region>
+	<region nombre="X Región de Los Lagos">
+		<provincia nombre="Llanquihue">
+			<comuna nombre="Puerto Montt"/>
+			<comuna nombre="Calbuco"/>
+			<comuna nombre="Cochamó"/>
+			<comuna nombre="Fresia"/>
+			<comuna nombre="Frutillar"/>
+			<comuna nombre="Los Muermos"/>
+			<comuna nombre="Llanquihue"/>
+			<comuna nombre="Maullín"/>
+			<comuna nombre="Puerto Varas"/>
+		</provincia>
+		<provincia nombre="Chiloé">
+			<comuna nombre="Castro"/>
+			<comuna nombre="Ancud"/>
+			<comuna nombre="Chonchi"/>
+			<comuna nombre="Curaco de Vélez"/>
+			<comuna nombre="Dalcahue"/>
+			<comuna nombre="Puqueldón"/>
+			<comuna nombre="Queilén"/>
+			<comuna nombre="Quellón"/>
+			<comuna nombre="Quemchi"/>
+			<comuna nombre="Quinchao"/>
+		</provincia>
+		<provincia nombre="Osorno">
+			<comuna nombre="Osorno"/>
+			<comuna nombre="Puerto Octay"/>
+			<comuna nombre="Purranque"/>
+			<comuna nombre="Puyehue"/>
+			<comuna nombre="Río Negro"/>
+			<comuna nombre="San Juan de La Costa"/>
+			<comuna nombre="San Pablo"/>
+		</provincia>
+		<provincia nombre="Palena">
+			<comuna nombre="Chaitén"/>
+			<comuna nombre="Futaleufú"/>
+			<comuna nombre="Hualaihué"/>
+			<comuna nombre="Palena"/>
+		</provincia>
+	</region>
+	<region nombre="XI Región de Aysen del General Carlos Ibáñez del Campo">
+		<provincia nombre="Coihaique">
+			<comuna nombre="Coihaique"/>
+			<comuna nombre="Lago Verde"/>
+		</provincia>
+		<provincia nombre="Aysen">
+			<comuna nombre="Aysen"/>
+			<comuna nombre="Cisnes"/>
+			<comuna nombre="Guaitecas"/>
+		</provincia>
+		<provincia nombre="Capitán Prat">
+			<comuna nombre="Cochrane"/>
+			<comuna nombre="O”Higgins"/>
+			<comuna nombre="Tortel"/>
+		</provincia>
+		<provincia nombre="General Carrera">
+			<comuna nombre="Chile Chico"/>
+			<comuna nombre="Río Ibáñez"/>
+		</provincia>
+	</region>
+	<region nombre="XII Región de Magallanes y de La Antártica Chilena">
+		<provincia nombre="Magallanes">
+			<comuna nombre="Punta Arenas"/>
+			<comuna nombre="Laguna Blanca"/>
+			<comuna nombre="Río Verde"/>
+			<comuna nombre="San Gregorio"/>
+		</provincia>
+		<provincia nombre="Antártica Chilena">
+			<comuna nombre="Cabo de Hornos"/>
+			<comuna nombre="Antártica"/>
+		</provincia>
+		<provincia nombre="Tierra del Fuego">
+			<comuna nombre="Porvenir"/>
+			<comuna nombre="Primavera"/>
+			<comuna nombre="Timaukel"/>
+		</provincia>
+		<provincia nombre="Última Esperanza">
+			<comuna nombre="Natales"/>
+			<comuna nombre="Torres del Paine"/>
+		</provincia>
+	</region>
+	<region nombre="XIV Región de Los Ríos">
+		<provincia nombre="Valdivia">
+			<comuna nombre="Valdivia"/>
+			<comuna nombre="Corral"/>
+			<comuna nombre="Lanco"/>
+			<comuna nombre="Los Lagos"/>
+			<comuna nombre="Máfil"/>
+			<comuna nombre="Mariquina"/>
+			<comuna nombre="Paillaco"/>
+			<comuna nombre="Panguipulli"/>
+		</provincia>
+		<provincia nombre="Ranco">
+			<comuna nombre="La Unión"/>
+			<comuna nombre="Futrono"/>
+			<comuna nombre="Lago Ranco"/>
+			<comuna nombre="Río Bueno"/>
+		</provincia>
+	</region>
+	<region nombre="XV Region de Arica y Parinacota">
+		<provincia nombre="Arica">
+			<comuna nombre="Arica"/>
+			<comuna nombre="Camarones"/>
+		</provincia>
+		<provincia nombre="Parinacota">
+			<comuna nombre="Putre"/>
+			<comuna nombre="General Lagos"/>
+		</provincia>
+	</region>
+	<region nombre="Región Metropolitana de Santiago">
+		<provincia nombre="Santiago">
+			<comuna nombre="Santiago"/>
+			<comuna nombre="Cerrillos"/>
+			<comuna nombre="Cerro Navia"/>
+			<comuna nombre="Conchalí"/>
+			<comuna nombre="El Bosque"/>
+			<comuna nombre="Estación Central"/>
+			<comuna nombre="Huechuraba"/>
+			<comuna nombre="Independencia"/>
+			<comuna nombre="La Cisterna"/>
+			<comuna nombre="La Florida"/>
+			<comuna nombre="La Pintana"/>
+			<comuna nombre="La Granja"/>
+			<comuna nombre="La Reina"/>
+			<comuna nombre="Las Condes"/>
+			<comuna nombre="Lo Barnechea"/>
+			<comuna nombre="Lo Espejo"/>
+			<comuna nombre="Lo Prado"/>
+			<comuna nombre="Macul"/>
+			<comuna nombre="Maipú"/>
+			<comuna nombre="Ñuñoa"/>
+			<comuna nombre="Pedro Aguirre Cerda"/>
+			<comuna nombre="Peñalolén"/>
+			<comuna nombre="Providencia"/>
+			<comuna nombre="Pudahuel"/>
+			<comuna nombre="Quilicura"/>
+			<comuna nombre="Quinta Normal"/>
+			<comuna nombre="Recoleta"/>
+			<comuna nombre="Renca"/>
+			<comuna nombre="San Joaquín"/>
+			<comuna nombre="San Miguel"/>
+			<comuna nombre="San Ramón"/>
+			<comuna nombre="Vitacura"/>
+		</provincia>
+		<provincia nombre="Cordillera">
+			<comuna nombre="Puente Alto"/>
+			<comuna nombre="Pirque"/>
+			<comuna nombre="San José de Maipo"/>
+		</provincia>
+		<provincia nombre="Chacabuco">
+			<comuna nombre="Colina"/>
+			<comuna nombre="Lampa"/>
+			<comuna nombre="Tiltil"/>
+		</provincia>
+		<provincia nombre="Maipo">
+			<comuna nombre="San Bernardo"/>
+			<comuna nombre="Buin"/>
+			<comuna nombre="Calera de Tango"/>
+			<comuna nombre="Paine"/>
+		</provincia>
+		<provincia nombre="Melipilla">
+			<comuna nombre="Melipilla"/>
+			<comuna nombre="Alhué"/>
+			<comuna nombre="Curacaví"/>
+			<comuna nombre="María Pinto"/>
+			<comuna nombre="San Pedro"/>
+		</provincia>
+		<provincia nombre="Talagante">
+			<comuna nombre="Talagante"/>
+			<comuna nombre="El Monte"/>
+			<comuna nombre="Isla de Maipo"/>
+			<comuna nombre="Padre Hurtado"/>
+			<comuna nombre="Peñaflor"/>
+		</provincia>
+	</region>
+</chile>
