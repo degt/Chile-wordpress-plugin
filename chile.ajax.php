@@ -4,11 +4,12 @@ add_action('init', 'initchile');
 
 function initchile(){
 	global $chile;
-	if($_GET['provincia']){
+		
+	if($_GET['provincia'] != ''){
 		echo json_encode($chile->provincia($_GET['provincia']));
 		exit;
 	}
-	if($_GET['comuna']){
+	if($_GET['comuna'] != ''){
 		$dd = explode('-',$_GET['comuna']);
 		$region = $dd[0];
 		$provincia = $dd[1];

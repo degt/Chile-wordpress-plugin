@@ -52,8 +52,10 @@ class Chile{
 	
 	function provincia($region, $provincia = ''){
 		$arr = $this->todos();
+		$i = 0;
 		foreach((array)$arr['chile']['region'][$region]['provincia'] as $var){
-			$provincias[] = htmlentities($var['attr']['nombre'],ENT_QUOTES,'UTF-8');
+			$provincias[$region.'-'.$i] = htmlentities($var['attr']['nombre'],ENT_QUOTES,'UTF-8');
+			$i++;
 		}
 		if($provincia == ''){
 			return $provincias;
@@ -64,9 +66,13 @@ class Chile{
 	
 	function comuna($region,$provincia,$comuna = ''){
 		$arr = $this->todos();
+		
+		$i = 0;
 		foreach((array)$arr['chile']['region'][$region]['provincia'][$provincia]['comuna'] as $var){
-			$comunas[] = htmlentities($var['attr']['nombre'],ENT_QUOTES,'UTF-8');
+			$comunas[$provincia.'-'.$i] = htmlentities($var['attr']['nombre'],ENT_QUOTES,'UTF-8');
+			$i++;
 		}
+		
 		if($comuna == ''){
 			return $comunas;
 		}else{
