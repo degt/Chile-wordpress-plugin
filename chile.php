@@ -10,6 +10,7 @@ Author URI: http://degt.cl
 
 //var $chile as global
 $chile = new Chile;
+
 require("xml2array.php");
 require("chile.ajax.php");
 
@@ -20,6 +21,7 @@ class Chile{
 		$this->opt = array(
 			'url' => get_bloginfo('url').'/wp-content/plugins/chile/chile.xml'
 		);
+		
 	}
 	
 	function todos(){
@@ -91,6 +93,7 @@ class Chile{
 		
 		foreach( (array)$arr['chile']['region'][$region]['provincia'] as $var){
 			foreach($var['comuna'] as $v){
+			 if(!$v['attr']['nombre']) continue;
 				$comunas[] = $v['attr']['nombre'];
 			}
 		}
